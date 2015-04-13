@@ -33,8 +33,8 @@ public class SkeletonActivity extends Form implements HandlesEventDispatching {
 	private HorizontalArrangement line2;
 
 	// Next our two components
-	private Button retrieveButton;
 	private Button saveButton;
+	private Button retrieveButton;
 	private Label resultLabel;
 
  // Java Bridger apps all use $define() in place of main()
