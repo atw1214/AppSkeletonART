@@ -1,12 +1,12 @@
 // Two notes here:
 //   1. You must rename this and put in your username
 //   2. You must comment out this line to compile with "javac"
-package edu.saintjoe.cs.atw1214.appskeleton;
+package edu.saintjoe.cs.brianc.appskeleton;
 
 /* App Skeleton
  * Written by Ashlee Troop 13 April 2015
  * This is master copy for class- my version. Adding in getter and setter to app class.
- *//
+ */
 
 // Import directives tell Eclipse which components you intend to use
 import com.google.devtools.simple.runtime.components.Component;
