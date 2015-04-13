@@ -4,9 +4,9 @@
 package edu.saintjoe.cs.atw1214.appskeleton;
 
 /* App Skeleton
- * Written by Brian Capouch 17 March 2015
+ * Written by Ashlee Troop 13 April 2015
  * This is master copy for class- my version. Adding in getter and setter to app class.
- */
+ *//
 
 // Import directives tell Eclipse which components you intend to use
 import com.google.devtools.simple.runtime.components.Component;
