@@ -1,11 +1,11 @@
 // Two notes here:
 //   1. You must rename this and put in your username
 //   2. You must comment out this line to compile with "javac"
-package edu.saintjoe.cs.brianc.appskeleton;
+package edu.saintjoe.cs.atw1214.appskeleton;
 
 /* App Skeleton
  * Written by Brian Capouch 17 March 2015
- * This app will serve as the basis for student project apps
+ * This is master copy for class- my version. Adding in getter and setter to app class.
  */
 
 // Import directives tell Eclipse which components you intend to use
